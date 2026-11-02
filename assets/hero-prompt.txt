@@ -1,0 +1,15 @@
+Use case: ads-marketing
+Asset type: polished GitHub README and public software release hero banner, wide landscape approximately 2:1.
+Primary request: Create an exceptionally well composed editorial retrocomputing illustration for AFP Server, a native macOS controller for Netatalk. The image should feel like a premium independent software launch, precise, quiet, confident, and warm.
+Scene/backdrop: warm ivory studio-paper backdrop with a restrained cobalt-blue graphic field and charcoal typography, generous negative space, beautifully balanced Swiss editorial layout.
+Subject: a generic unbranded beige compact classic Macintosh-era desktop computer, keyboard and mouse, connected by a clear physical Ethernet cable to a small modern rounded aluminum macOS server computer. Use no brand logos. Give the classic screen a simple friendly abstract cobalt folder symbol, without a fake application screenshot. Between the computers, two subtle complementary paths of tiny file-like marks suggest a data fork and a resource fork moving together and converging into a clean folder symbol; metadata preservation is an abstract supporting detail. Physical network connection, no cloud or wireless transmission.
+Style/medium: refined 3D product illustration blended with crisp editorial graphic design, soft dimensional edges, subtle paper grain and halftone/pixel textures, high craft, understated retro-modern computer culture.
+Composition/framing: wide banner at roughly 2:1 ratio; precise typography in the left upper half and a strong connected-computers composition across the lower half and right side. Every element comfortably inside safe margins, generous breathing room. The main title should be large and immediately readable even as a GitHub README thumbnail.
+Lighting/mood: soft studio shadows, warm diffuse light, tactile premium materials.
+Color palette: warm ivory, rich cobalt blue, charcoal, beige and silver; no neon.
+Text (verbatim; exactly these three lines of text, no other text):
+"AFP Server"
+"Classic Macs. Modern storage."
+"Native macOS control for Netatalk"
+Typography: premium Swiss sans-serif typography with careful spacing. Title very large and bold, tagline medium size below, descriptor small but legible. Exact spelling, capitalization and punctuation. Render all three lines fully and correctly.
+Constraints: real intent is AFP over TCP/IP through Netatalk. Do not depict a radio network, AppleTalk symbol or direct cloud. Do not make performance or security claims. No Apple logos, brand logos, IP addresses, user paths, watermarks, decorative pseudo-writing, fake app UI, clutter, neon AI aesthetic. Maintain exceptional visual hierarchy and a sophisticated clean composition.

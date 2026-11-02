@@ -1,0 +1,24 @@
+# Local Xcode state and build products
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcresult/
+*.dSYM/
+*.xcarchive/
+
+# Local distribution and diagnostics
+release/
+*.zip
+*.log
+Diagnostics/
+*-backup/
+
+# Never commit a live server configuration or local credentials
+afp.conf
+afp.conf.*
+.env
+.env.*
+*.pem
+*.key
